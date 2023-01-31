@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A Computer Science student at The University of Southampton</h3>
 
-- 🔭 I’m currently working on **a Java based maze generator**
-
-- 🌱 I’m currently learning **Haskell/Functional programming**
+- 🌱 I’m currently learning **Haskell/Functional programming/Rust**
 
 - 💬 Ask me about **my attempts at generative art**
 
