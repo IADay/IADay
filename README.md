@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A Third Year Computer Science Student at The University of Southampton</h3>
+<h3 align="center">A Fourth Year Computer Science Student at The University of Southampton</h3>
 
-- 🌱 I’m currently learning **Kotlin/Secure Android Development**
-
-- 💬 Ask me about **my attempts at generative art**
+- 🌱 I’m currently learning **Technqiues and standards for OSINT development**
 
 - 📫 How to reach me **16.iaday@gmail.com**
 
