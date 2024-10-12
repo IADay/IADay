@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Technqiues and standards for OSINT development**
 
-- 📫 How to reach me **Find me on LinkedIn: Isaac Day**
+- 📫 How to reach me **Find me on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
